@@ -1,0 +1,5 @@
+str=input("Enter string: ")
+l=list(str)
+l.sort(reverse=True)
+sort_str=''.join(l)
+print(sort_str)
