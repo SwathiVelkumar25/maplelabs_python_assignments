@@ -1,3 +1,5 @@
+# Frequency count
+
 def count_char_frequencies(s):
     freq_dict = {}
     for char in s:
